@@ -1,3 +1,4 @@
+/* CREATE DATABASE matdb */
 CREATE TABLE employees (
     id int  NOT NULL AUTO_INCREMENT PRIMARY key,
     name varchar(50) NOT NULL,
